@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/VueCercle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/ModelEcoutable.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/ContainerForme.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/CommandHandler.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/JeuForme.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/AddCommand.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/VueJeu.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/Point.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/ListeEcouteur.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/RemoveCommand.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/JeuGUI.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/StrategyObstacle1.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ConteneurVue.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/UndoButton.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeMoveForme.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeVide.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeAction.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/OperationCommand.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/StrategyObstaclesAleatoires.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeDeleteForme.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/VuePoint.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/InterfaceModelEcoutable.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/IListEcoutable.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/ListeEcoutable.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/Rectangle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/VueFormeMode.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeAddRectangle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/ModeAddCercle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/StrategyObstacles.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/CompositeCommand.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/vue_controleur/VueRectangle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/EcouteurModel.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/Cercle.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/Main.java</file>
+            <file>file:/F:/projets/unicaen/m1/javaProject/conception_avancee/src/jeu/model/Forme.java</file>
+        </group>
+    </open-files>
+</project-private>
